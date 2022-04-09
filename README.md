@@ -3,7 +3,7 @@
 This project is to break down, analyze, and visualize the use of citi bikesharing services in New York City in August 2019, so to provide useful information for establishing a similar bike-sharing program in Des Moines. The data is from the Citi bike system data page. I will use Python and Tableau to visualize the data, giving a basic portrait of bike-sharing customers and the possible ideal location to place bikes.
 
 ## Results
-- From [The checkout times for users](https://public.tableau.com/app/profile/ziwen.lyu/viz/CheckoutTimesforUsers_16494768152590/CheckoutTimesforUsers?publish=yes) we can know that, most of our users are using bike-sharing services within 40 minutes, indicating that mostly they travel for short trips. Given the average speed of riders is 15 mph, most citi bike users travel within 10 miles.
+- From [The checkout times for users](https://public.tableau.com/app/profile/ziwen.lyu/viz/CheckoutTimesforUsers_16494768152590/CheckoutTimesforUsers?publish=yes) we can know that, most of users are using bike-sharing services within 40 minutes, indicating that they travel by bikes for short trips. Given the average speed of riders is 15 mph, most citi bike users travel within 10 miles.
 
 - By breaking down the data by gender, from the chart [The checkout time by gender](https://public.tableau.com/app/profile/ziwen.lyu/viz/CheckoutTimesbyGender_16494768714760/CheckoutTimesbyGender?publish=yes), there's no difference in trip duration among genders. And also, the number of male users are much more than female users.
 
